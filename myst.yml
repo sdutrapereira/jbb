@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8cd04aa5-cb7a-498e-924f-75c6bed21c38
+  # title: Python für das VD17
+  # description: Ein Python Tutorial für die Analyse von Bücherkataloge
+  # keywords: [VD17, Python, bibliographische Metadaten, Datenanalyse]
+  # authors: [Suellen Dutra Pereira]
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
